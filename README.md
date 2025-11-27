@@ -26,9 +26,8 @@ Here are some of the highlighted projects in my portfolio:
 - Resume download link  
 - Interactive project showcase  
 
-## Getting Started
-To run this project locally:
+---
 
-1. Clone the repository:
-```bash
+## 📂 Project Status
+✅ WIP
 git clone https://github.com/mariaigosheva/maria-portfolio.git
