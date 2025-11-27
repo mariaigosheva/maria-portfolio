@@ -30,4 +30,4 @@ Here are some of the highlighted projects in my portfolio:
 
 ## 📂 Project Status
 ✅ WIP
-git clone https://github.com/mariaigosheva/maria-portfolio.git
+
